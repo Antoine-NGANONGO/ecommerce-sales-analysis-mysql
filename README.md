@@ -40,5 +40,3 @@ These values are expected from the supplied sample data; verify them by running 
 ## Limitations and next steps
 The dataset is very small and fictional, so findings are demonstrations, not evidence about actual e-commerce behavior. A future iteration could include order items, real-world data, returns, discounts, and dashboards.
 
-## AI assistance
-AI helped structure the project, prepare SQL scripts, and draft documentation. The author should execute, inspect, and be able to explain the queries before presenting the project as validated portfolio work.
